@@ -1,0 +1,8 @@
+20220901	08:23:27	3e3bc466-b9bd-42b0-8ee9-ead2efa9f07f	GET	/	https://www.google.com
+20220901	08:23:27	45aa5ac7-28b5-480c-a99d-b9398aaa478e	OPTIONS	/	https://www.google.com
+20220901	08:24:25	57b83f02-bfef-418b-87b3-cd8dc98fa9fd	OPTIONS	/	https://ca.yahoo.com
+20220901	08:24:25	0da66d64-722b-48ed-81eb-62d051f103cc	GET	/	https://ca.yahoo.com
+20220901	08:35:33	db99ad70-24f4-45ca-b735-508e6c9f9595	OPTIONS	/	https://ca.yahoo.com
+20220901	08:35:33	aa4f8d6b-71a0-4cac-a273-1115faa66016	GET	/	https://ca.yahoo.com
+20220901	08:38:08	df30977d-a253-414e-976a-04d9056fb789	OPTIONS	/	https://ca.yahoo.com
+20220901	08:38:08	df89219d-2705-4837-ad31-56119162eab6	GET	/	https://ca.yahoo.com

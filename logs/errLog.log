@@ -1,0 +1,8 @@
+20220901	08:23:27	fc3b3064-c1db-4dc8-a424-3d9a91a517a6	Error: Not allowed by CORS	OPTIONS	/	https://www.google.com
+20220901	08:23:27	b55ca1e3-cd47-4ccc-868a-aa9dc0865eb0	Error: Not allowed by CORS	GET	/	https://www.google.com
+20220901	08:24:25	13caa766-973b-4a82-9724-f4fe09a43979	Error: Not allowed by CORS	OPTIONS	/	https://ca.yahoo.com
+20220901	08:24:25	79a3e19f-b009-4385-8d9f-f8fabd5db4ad	Error: Not allowed by CORS	GET	/	https://ca.yahoo.com
+20220901	08:35:33	c468267e-7bd7-4b6d-94ae-6202b30c1aa5	Error: Not allowed by CORS	OPTIONS	/	https://ca.yahoo.com
+20220901	08:35:33	8446f593-34d7-4670-b606-969d90732418	Error: Not allowed by CORS	GET	/	https://ca.yahoo.com
+20220901	08:38:08	d1ea3d30-4d77-4e00-bf8d-d72f0c6cedd3	Error: Not allowed by CORS	OPTIONS	/	https://ca.yahoo.com
+20220901	08:38:08	c2cf5a20-bdcb-4703-80af-43aa853aae38	Error: Not allowed by CORS	GET	/	https://ca.yahoo.com
