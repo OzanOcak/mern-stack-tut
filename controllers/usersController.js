@@ -37,7 +37,8 @@ const createNewUser = asyncHandler(async (req, res) => {
   }
 
   // Hash password
-  const hashedPwd = await bcrypt.hash(password, 10); // salt rounds
+  passwordToString = password.toString();
+  const hashedPwd = await bcrypt.hash(passwordToString, 10); // salt rounds
 
   const userObject = { username, password: hashedPwd, roles };
 

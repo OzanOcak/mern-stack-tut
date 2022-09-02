@@ -6,3 +6,7 @@
 20220901	08:35:33	8446f593-34d7-4670-b606-969d90732418	Error: Not allowed by CORS	GET	/	https://ca.yahoo.com
 20220901	08:38:08	d1ea3d30-4d77-4e00-bf8d-d72f0c6cedd3	Error: Not allowed by CORS	OPTIONS	/	https://ca.yahoo.com
 20220901	08:38:08	c2cf5a20-bdcb-4703-80af-43aa853aae38	Error: Not allowed by CORS	GET	/	https://ca.yahoo.com
+20220901	15:50:01	d643355d-70f4-4bcc-b902-1a54100bd520	Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds	POST	/users	undefined
+20220901	15:59:16	a3c995fa-2136-4126-b50f-c805c1cc6cf0	Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds	POST	/users	undefined
+20220901	17:10:39	45945012-69a9-4d0b-a91f-f31cdfc2a39b	TypeError: Assignment to constant variable.	POST	/users	undefined
+20220901	17:12:09	ef146571-76de-4925-af3b-95190986e3d5	Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds	POST	/users	undefined
